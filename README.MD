@@ -32,7 +32,7 @@
 <br>
 
 <a href="https://github.com/DevM1chael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-henrique&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevM1chael&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/DevM1chael">
@@ -41,7 +41,7 @@
 
 
 <a href="https://github.com/DevM1chael/pagina_pessoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Pagina_Pessoal&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevM1chael&repo=Pagina_Pessoal&theme=dark" />
 </a>
 
 <a href="https://github.com/DevM1chael/Projeto-01">
