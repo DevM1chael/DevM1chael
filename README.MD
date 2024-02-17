@@ -21,7 +21,8 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <ul align='center'>
+</p>
+<ul align='center'>
   <li>Processor: Ryzen 5 4600g</li>
   <li>Motherboard: B550 Aorus Elite</li>
   <li>Graphics: RX 6600</li>
@@ -30,7 +31,6 @@
   <li>M.2: 2TB</li>
   <li>PSU: CV 650W Corsair Ore 80 plus bronze</li>
   </ul>
-</p>
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/michael-henrique'>sponsor me ❤️</a>
