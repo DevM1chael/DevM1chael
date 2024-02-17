@@ -1,6 +1,5 @@
 <h1 align='center'>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width: 10px> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  width: 10px>
-<br>I'm Michael Henrique <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  width: 10px></br>
+  Hi there 👋 I'm Michael Henrique 👨‍💻
 </h1>
 
 <p align='center'>
