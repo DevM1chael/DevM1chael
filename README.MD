@@ -8,7 +8,7 @@
 
 <p align='center'>
   <a href="https://github.com/sponsors/michael-henrique" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" target="_blank" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dev-michael">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
