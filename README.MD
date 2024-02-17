@@ -42,7 +42,7 @@
 
 
 <a href="https://github.com/michael-henrique/pagina_pessoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=michael-henrique&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=TheDudeThatCode&theme=dark" />
 </a>
 
 <a href="https://github.com/michael-henrique/Projeto-01">
@@ -51,7 +51,7 @@
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&hide_border=true)
 -->
 
 <br>
