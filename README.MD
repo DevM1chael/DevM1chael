@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/sponsors/michael-henrique" {:target="_blank"}>
+  <a href="https://github.com/sponsors/michael-henrique">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dev-michael">
@@ -16,7 +16,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
