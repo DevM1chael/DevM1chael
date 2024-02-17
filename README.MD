@@ -21,7 +21,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <ul>
+  <ul align='center'>
   <li>Processor: Ryzen 5 4600g</li>
   <li>Motherboard: B550 Aorus Elite</li>
   <li>Graphics: RX 6600</li>
