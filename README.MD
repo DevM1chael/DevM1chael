@@ -32,26 +32,26 @@
 
 <br>
 
-<a href="https://github.com/michael-henrique">
+<a href="https://github.com/DevM1chael">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-henrique&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/michael-henrique">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&theme=dark&line_height=27" alt="Michael Henrique's github stats"/>
+<a href="https://github.com/DevM1chael">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevM1chael&show_icons=true&theme=dark&line_height=27" alt="Michael Henrique's github stats"/>
 </a>
 
 
-<a href="https://github.com/michael-henrique/pagina_pessoal">
+<a href="https://github.com/DevM1chael/pagina_pessoal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Pagina_Pessoal&theme=dark" />
 </a>
 
-<a href="https://github.com/michael-henrique/Projeto-01">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Projeto-01&theme=dark" />
+<a href="https://github.com/DevM1chael/Projeto-01">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevM1chael&repo=Projeto-01&theme=dark" />
 </a>
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=DevM1chael&show_icons=true&hide_border=true)
 -->
 
 <br>
@@ -64,7 +64,7 @@
 
 
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/dev-michael) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/M1chael_D3v) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_michaelwazowski/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/michael-henrique) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:michaelhenriquepedro@gmail.com)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/dev-michael) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/M1chael_D3v) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_michaelwazowski/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/DevM1chael) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:michaelhenriquepedro@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
