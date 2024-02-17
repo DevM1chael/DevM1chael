@@ -17,6 +17,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  [![Michael-Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-henrique)](https://github.com/-michael-henrique/github-readme-stats)
 </p>
 
 <p align='center'>
