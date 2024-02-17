@@ -26,7 +26,6 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍, css, html and JS projects**.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **all questions 🌐**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *determination* 💪
 
 
@@ -51,7 +50,7 @@
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=DevM1chael&show_icons=true&hide_border=true)
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=DevM1chael&show_icons=true&hide_border=true)
 -->
 
 <br>
