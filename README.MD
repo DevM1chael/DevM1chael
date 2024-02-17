@@ -21,10 +21,15 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <ul>
+  <li>Processor: Ryzen 5 4600g</li>
+  <li>Motherboard: B550 Aorus Elite</li>
+  <li>Graphics: RX 6600</li>
+  <li>RAM: 32GB</li>
+  <li>SSD: 120GB</li>
+  <li>M.2: 2TB</li>
+  <li>PSU: CV 650W Corsair Ore 80 plus bronze</li>
+  </ul>
 </p>
 
 <p align='center'>
