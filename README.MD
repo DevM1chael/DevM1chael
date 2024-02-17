@@ -27,7 +27,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **all questions 🌐**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *determination* 😴
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *determination* 💪
 
 
 <br>
@@ -37,16 +37,16 @@
 </a>
 
 <a href="https://github.com/michael-henrique">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-henrique&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
 
 <a href="https://github.com/michael-henrique/pagina_pessoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Pagina_Pessoal&theme=dark" />
 </a>
 
 <a href="https://github.com/michael-henrique/Projeto-01">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Fun-with-DS-and-Algo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael-henrique&repo=Projeto-01&theme=dark" />
 </a>
 
 <br>
